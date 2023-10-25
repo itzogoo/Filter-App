@@ -66,7 +66,7 @@ const handleSearch = (event) => {
                 image={avatar_url}
                 />
             );
-        })}
+        })};
     </div>
     </> 
   );
